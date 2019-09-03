@@ -1,0 +1,2 @@
+# AutoSizeEditText
+Autosize EditText
